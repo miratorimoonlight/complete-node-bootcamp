@@ -1,3 +1,5 @@
+// 🫵 This file shows how event loop works.
+// You can experiment here to understand NodeJS better.
 const fs = require("fs");
 const crypto = require("crypto");
 
