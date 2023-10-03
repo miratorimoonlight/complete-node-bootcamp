@@ -1,3 +1,4 @@
+// 🫵 This file teaches about Event-Driven Architecture in NodeJS
 const EventEmitter = require("events");
 const http = require("http");
 
